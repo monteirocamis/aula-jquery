@@ -1,0 +1,5 @@
+moseenter 
+// no passar do mouse
+
+click
+//onclick
